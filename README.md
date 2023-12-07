@@ -27,7 +27,8 @@ The dataset contains 1100 students' mental health conditions. There are 1100 row
 
 # Research Questions
 Which factor has the greatest impact on depression?<br>
-What is the central tend
+Which grade in depression column does most students have?<br>
+What is the data distribution of the depression column?
 # Limitations of the Dataset
 Levels of depression may differ from country to country and change over time. It's possible that the students in 2023 are more susceptible to depression compared to those in 2000 due to the increasing invisible stress from the society. Also, the levels may be various in groups with different ages. The students from 13 to 16 are likely to suffer from more serious depression than those under 13 because of growth hormone. The results of the research questions can be more accurate if there are more related datasets.
 
